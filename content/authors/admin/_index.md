@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: M.S student of VLSI design
+role: M.S. student of VLSI design
 
 # Organizations/Affiliations
 organizations:
