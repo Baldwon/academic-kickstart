@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  #- course: PhD in Artificial Intelligence
+  #  institution: Stanford University
+  #  year: 2012
   - course: MS in Integrated Circuits and VLSI Design
     institution: University of Michigan, Ann Arbor
     year: 2019.09 - 2021.04(expected)
@@ -71,6 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a M.S. student at Electrical and Computer Engineering department, University of Michigan at Ann Arbor. Now, I am a research assistant at Michigan Intergrated Circuits Laboratory (MICL) since the semester of Winter 2019, under the supervision of Professor David Blaauw. My research interests span from digital circuit design to architecture design, including hardware-algorithm co-design, low-power VLSI system design, edge computing and deep learning.
