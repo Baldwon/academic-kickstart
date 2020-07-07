@@ -27,7 +27,7 @@ interests:
 - deep learning
 
 education:
-  #courses:
+  courses:
   #- course: PhD in Artificial Intelligence
   #  institution: Stanford University
   #  year: 2012
