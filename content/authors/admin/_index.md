@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Boxun Xu 0
+title: Boxun Xu
 
 # Username (this should match the folder name)
 authors:
