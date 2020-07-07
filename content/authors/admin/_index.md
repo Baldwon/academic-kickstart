@@ -22,8 +22,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - hardware-algorithm co-design
-- low-power VLSI system
-- edge computing
+- low-power VLSI system design
+- hardware accelerator
 - deep learning
 
 education:
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am a M.S. student at Electrical and Computer Engineering department, University of Michigan at Ann Arbor. Now, I am a research assistant at Michigan Intergrated Circuits Laboratory (MICL) since the semester of Winter 2019, under the supervision of Professor David Blaauw. My research interests span from digital circuit design to architecture design, including hardware-algorithm co-design, low-power VLSI system design, edge computing and deep learning.
+I am a M.S. student at Electrical and Computer Engineering department, University of Michigan at Ann Arbor. Now, I am working at Michigan Intergrated Circuits Laboratory (MICL) as a research assistant, under the supervision of Professor David Blaauw. My research interests span from digital circuit design to architecture design, including hardware-algorithm co-design, low-power VLSI system design, hardware accelerator and deep learning.
