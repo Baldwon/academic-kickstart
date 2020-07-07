@@ -14,16 +14,17 @@ role: M.S student of VLSI design
 
 # Organizations/Affiliations
 organizations:
-- name: University of Michigan, Ann Arbor
+- name: University of Michigan
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- hardware-algorithm co-design
+- low-power VLSI system
+- edge computing
+- deep learning
 
 education:
   #courses:
