@@ -33,10 +33,10 @@ education:
   #  year: 2012
   - course: MS in Integrated Circuits and VLSI Design
     institution: University of Michigan, Ann Arbor
-    year: 2009
+    year: 2019.09 - 2021.04(expected)
   - course: BS in Electronic Science and Technology
     institution: University of Electronic Science and Technology of China
-    year: 2008
+    year: 2015.09 - 2019.06
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
