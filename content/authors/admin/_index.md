@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-  #- course: PhD in Artificial Intelligence
-  #  institution: Stanford University
-  #  year: 2012
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
   - course: MS in Integrated Circuits and VLSI Design
     institution: University of Michigan, Ann Arbor
     year: 2019.09 - 2021.04(expected)
