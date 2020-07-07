@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Boxun
+title: Boxun Xu
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: M.S student of VLSI design
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Michigan, Ann Arbor
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
