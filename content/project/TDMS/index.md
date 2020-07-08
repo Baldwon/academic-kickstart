@@ -6,12 +6,11 @@ title = "Time-Domain Mixed-Signal MAC Processor"
 date = 2019-12-02T00:00:00
 
 # Project summary to display on homepage.
-summary = "Design of 4-bit Time-Domain Mixed-Signal MAC Processor with 8T SRAM Array as Data Cache for Resource-constrained DNN Applications
-"
+summary = "Design of 4-bit Time-Domain Mixed-Signal MAC Processor with 8T SRAM Array as Data Cache for Resource-constrained DNN Applications"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["teachstat"]
+tags = ["In memory computing","machine learning"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
