@@ -6,8 +6,8 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "Deep Learning"
-This is a project.
+subtitle = "Deep Learning0"
+# This is a project.
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
