@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "Cognitive Task Analysis and Think-Aloud Interviews"
+title = "A GAN-based generalized signal encoding processor for IoT applications in 22nm"
 
 # Date this page was created.
 date = 2019-12-02T00:00:00
 
 # Project summary to display on homepage.
-summary = "Using methods from cognitive science to uncover misconceptions students in introductory statistical inference courses may hold"
+summary = "Design of a low-power configurable neural engine for deep learning applications"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["teachstat"]
+tags = ["machine-learning","low-power-VLSI-system"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -37,4 +37,4 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-We drafted about 30 introductory-level statistical inference problems, ranging from calculating the maximum likelihood estimator to finding the marginal distribution when given the joint distribution. We conducted think-aloud interviews with students in Carnegie Mellon's introductory statistical inference course in spring 2019. We are currently working on transcribing these interviews so we can compare the steps students took to solve our problems to the cognitive tasks we predicted students would undertake to solve problems. This work is joint with Josue Orellana and [Dr. Alex Reinhart](https://www.refsmmat.com/).
+In this project, the chip will implement the newly proposed GAN based generalized signal encoding algorithm for audio/image/video compression. In the algorithm, the compressed signal is represented by a latent vector fed into a GAN which is trained to produce high-quality signals that minimize a target objective function. Therefore, the chip will implement both convolutional neural network (CNN) and generative adversarial network (GAN) for both forward- and backward- propagation.
