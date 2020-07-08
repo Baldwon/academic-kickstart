@@ -18,7 +18,7 @@ subtitle = "Deep Learning"
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
-  # This is a project.
+   This is a project.
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
