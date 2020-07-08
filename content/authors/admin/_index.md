@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'boxunxu@outlook.com'  # For a direct email link, use "boxunxu@outlook.com".
+  link: 'mailto:boxunxu@umich.edu'  # For a direct email link, use "boxunxu@outlook.com".
 #  - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -62,7 +62,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "boxunxu@umich.edu"
+# email: "boxunxu@umich.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
