@@ -25,11 +25,12 @@ date_format = "Jan 2006"
   date_start = "2019-03-15"
   date_end = "2019-05-15"
   description = """
-  Responsibilities include:
+  Speed-up Neural Network on FPGA
+  # Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  # * Analysing
+  # * Modelling
+  # * Deploying
   """
 
 [[experience]]
@@ -39,6 +40,6 @@ date_format = "Jan 2006"
   location = "Saudi Arabia"
   date_start = "2018-09-20"
   date_end = "2019-01-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Quantum investigation for the adsorption of molecules on TiO2 surface"""
 
 +++
