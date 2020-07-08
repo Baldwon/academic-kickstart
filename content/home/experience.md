@@ -24,15 +24,7 @@ date_format = "Jan 2006"
   location = "Hong Kong"
   date_start = "2019-03-15"
   date_end = "2019-05-15"
-  description = """
-  Speed-up Neural Network on FPGA
-  # Responsibilities include:
-  
-  # * Analysing
-  # * Modelling
-  # * Deploying
-  
-  """
+  description = """Speed-up Neural Network on FPGA"""
 
 [[experience]]
   title = "Research Assistant"
