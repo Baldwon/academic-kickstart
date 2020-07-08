@@ -7,7 +7,7 @@ weight = 65  # Order that this section will appear.
 
 title = "Projects"
 subtitle = "Deep Learning"
-
+# This is a project.
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
@@ -18,7 +18,7 @@ subtitle = "Deep Learning"
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
-   This is a project.
+  # This is a project.
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
@@ -62,8 +62,8 @@ subtitle = "Deep Learning"
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image = "background.jpg"  # Name of image in `static/img/`.
+   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
