@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "A GAN-based generalized signal encoding processor for IoT applications in 22nm"
+title = "A RISC-V 16-bit customized microprocessor using IBM 130 nm technology"
 
 # Date this page was created.
 date = 2019-12-02T00:00:00
 
 # Project summary to display on homepage.
-summary = "Design of a low-power configurable neural engine for deep learning applications"
+summary = "designed and laid out register file, ALU, shifter, program counter, peripherals and ISA for a 16-bit microprocessor using IBM 130 nm technology"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["machine-learning","low-power-VLSI-system"]
+tags = ["VLSI","Micro-processor"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -36,5 +36,4 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
-
-In this project, the chip will implement the newly proposed GAN based generalized signal encoding algorithm for audio/image/video compression. In the algorithm, the compressed signal is represented by a latent vector fed into a GAN which is trained to produce high-quality signals that minimize a target objective function. Therefore, the chip will implement both convolutional neural network (CNN) and generative adversarial network (GAN) for both forward- and backward- propagation.
+This project designed and laid out register file, ALU, shifter, program counter, peripherals and ISA for a 16-bit microprocessor using IBM 130 nm technology.
