@@ -33,6 +33,6 @@ date_format = "Jan 2006"
   location = "Saudi Arabia"
   date_start = "2018-09-20"
   date_end = "2019-02-08"
-  description = """Quantum investigation for the adsorption of molecules on TiO2 surface"""
+  description = """Quantum investigation for the adsorption of molecules on lepidocrocite-type TiO_{2} surface"""
 
 +++
