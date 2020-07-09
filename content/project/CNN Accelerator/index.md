@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "A GAN-based generalized signal encoding processor for IoT applications in 22nm"
+title = "A GAN-based generalized signal encoding processor for IoT applications in 22nm ULL technology"
 
 # Date this page was created.
 date = 2019-12-02T00:00:00
