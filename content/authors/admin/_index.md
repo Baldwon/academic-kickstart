@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: M.S. student of VLSI design
+role: incoming PhD student at UCSB
 
 # Organizations/Affiliations
 organizations:
@@ -33,7 +33,7 @@ education:
   #  year: 2012
   - course: M.S. in Integrated Circuits and VLSI Design
     institution: University of Michigan, Ann Arbor
-    year: 2019.09 - 2021.04(expected)
+    year: 2019.09 - 2021.04
   - course: B.Eng. in Electronic Science and Technology
     institution: University of Electronic Science and Technology of China
     year: 2015.09 - 2019.06
