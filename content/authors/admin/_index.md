@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: MS student of VLSI design
+role: MS student of IC&VLSI design
 # Organizations/Affiliations
 organizations:
 - name: University of Michigan
