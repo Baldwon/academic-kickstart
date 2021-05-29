@@ -1,10 +1,7 @@
 [build]
-  command = "hugo"
+  command = "hugo --gc --minify -b $URL"
   publish = "public"
 
-[build.environment]
-  HUGO_VERSION = "YOUR_HUGO_VERSION"
-  publish = "public"
 
 [build.environment]
   HUGO_VERSION = "0.72.0"
